@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+saaremaa.edu.ee	TRUE	/	FALSE	1999999999	class	deleted
+saaremaa.edu.ee	TRUE	/	FALSE	1999999999	teacher	deleted
+saaremaa.edu.ee	TRUE	/	FALSE	1999999999	room	deleted
+
